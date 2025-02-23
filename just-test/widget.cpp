@@ -7,6 +7,7 @@ Widget::Widget(QWidget *parent)
 {
     ui->setupUi(this);
     ui->btn1->setText("wdf???");
+    ui->btn1->setText("???");
 }
 
 Widget::~Widget()
